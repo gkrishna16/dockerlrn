@@ -1,0 +1,13 @@
+.editable-div {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.editable-div:focus {
+  outline: none;
+  border-color: blue;
+}
+
+#update-btn {
+  margin-top: 10px;
+}
